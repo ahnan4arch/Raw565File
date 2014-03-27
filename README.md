@@ -1,4 +1,4 @@
-BMPFile
+Raw565File
 =======
 
-Bitmap File Renderer (from SD card) for TFT library
+Raw RGB565 File Renderer (from SD card) for TFT library
